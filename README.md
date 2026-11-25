@@ -1,6 +1,6 @@
 # PatternOS
 
-[Live website](https://patternos-learn.vercel.app/) · [GitHub repository](https://github.com/KunalRawat10/pattern-os)
+[Live website](https://patternos-learn.vercel.app/) ·
 
 A lightweight DSA learning workspace. Students predict, trace, repair and apply algorithms; optional AI helps explain their current step. Executable checks determine workshop results independently of the model.
 
