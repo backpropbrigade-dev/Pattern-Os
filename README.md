@@ -49,11 +49,6 @@ flowchart TD
 The application controls workshop tools. The LLM does not autonomously choose and call tools. There is no agent loop; do not describe this as a multi-agent system.
 
 ## Demo and capstone submission
-
-- [Workshop guide](docs/WORKSHOP_GUIDE.md)
-- [Recording script and exact prompts](docs/VIDEO_RECORDING_GUIDE.md)
-- [Requirement audit](docs/CAPSTONE_AUDIT.md)
-
 Public frontend: https://patternos-learn.vercel.app/. New local features appear there only after a successful push/deployment. No API key belongs in client-side variables or Git. Physical low-end hardware performance and improved learning outcomes have not been established.
 
 ## Latest learning tools
