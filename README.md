@@ -1,7 +1,5 @@
 # PatternOS
 
-[Live website](https://patternos-learn.vercel.app/) ·
-
 A lightweight DSA learning workspace. Students predict, trace, repair and apply algorithms; optional AI helps explain their current step. Executable checks determine workshop results independently of the model.
 
 ## Journeys
